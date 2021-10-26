@@ -1,5 +1,5 @@
 # SPRAWDZIAN
-<P><B>SKLEP ZOOLOGICZNY</P></B>
+<P><B>SKLEP ZOOLOGICZNY</B></p>
 <P>Poniżej znajdują się następne podstrony strony,<p>kliknij w wybraną, aby przejść do odpowiedniego tematu</p></p> 
  <A NAME="dol"></A>			
 <A HREF="poczta_Malek.html"> poczta </A><br>
