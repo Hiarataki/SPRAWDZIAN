@@ -1,4 +1,4 @@
-# SPRAWDZIAN
+
 <B>SKLEP ZOOLOGICZNY</B>
 <P>Poniżej znajduje się menu</p><p>kliknij, aby przejść do okna menu</P>
  <A NAME="dol"></A>			
