@@ -6,7 +6,7 @@
 <body bgcolor="grey">
 <!--Szymon Malek 5.11.2021r-->
 <fieldset> </fieldset>
-  <fieldset><p align="middle"><b><font size="9" color="red"><i><u>Pet Shop</u></i></font></b></p></fieldset>
+  <fieldset><p>< align="middle"><b><font size="9" color="red"><i><u>Pet Shop</u></i></font></b></p></fieldset>
 <HR SIZE=3 WIDTH=80% ALIGN="middle" COLOR=black>
 <fieldset>
 <p align="left">
@@ -14,9 +14,9 @@
  Sklep Zoologiczny
 </font>
 </p>
-<p align="middle"><img src="logo_Malek.jpg" width="700" height="200" alt="Logo"></p> <p align="right"><font size=2 face="Calibri" color="pink">Sklep Zoologiczny
+<p>< align="middle"><img src="logo_Malek.jpg" width="700" height="200" alt="Logo"></p> <p align="right"><font size=2 face="Calibri" color="pink">Sklep Zoologiczny
   </font></p>
-<p align="left"><font size=3 face="Verdana" color="blue">Sklep Zoologiczny</font></p>
+<p><align="left"><font size=3 face="Verdana" color="blue">Sklep Zoologiczny</font></p>
 </font>
 <HR SIZE=4 WIDTH=55% ALIGN="left" COLOR=purple>
 </fieldset>
@@ -31,7 +31,7 @@
 </ul><br>
 </fieldset>
 <fieldset>
-<p align="middle">
+<p>< align="middle">
 <a href="menu.html">Nasze menu opcji</a>
 </p>
 </fieldset>
