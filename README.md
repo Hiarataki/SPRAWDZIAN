@@ -15,7 +15,7 @@
 </font>
 </p>
 <p align="middle"><img src="logo_Malek.jpg" width="700" height="200" alt="Logo"></p> <p align="right"><font size=2 face="Calibri" color="pink">Sklep Zoologiczny
-</font></p>
+  </font></p>
 <p align="left"><font size=3 face="Verdana" color="blue">Sklep Zoologiczny</font></p>
 </font>
 <HR SIZE=4 WIDTH=55% ALIGN="left" COLOR=purple>
