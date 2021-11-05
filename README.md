@@ -32,7 +32,7 @@
 </fieldset>
 <fieldset>
 <p align="middle">
-<a href="">Nasze menu opcji</a>
+<a href="menu.html">Nasze menu opcji</a>
 </p>
 </fieldset>
 ©Malek
